@@ -1,0 +1,24 @@
+#name, #contact {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: .67em;
+}
+
+#major {
+    font-style: italic;
+}
+
+#bio {
+    margin: 1em 0px;
+}
+
+#music {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#contact {
+    margin-top: 60px;
+}
+
+#form {margin-top: 10px;}
